@@ -15,3 +15,4 @@
 >>>>>>> user-a-from-r4
 Изменения в r11 от User B
 >>>>>>> user-b-branch
+Изменения в r13 от User A
