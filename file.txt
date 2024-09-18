@@ -16,3 +16,4 @@
 Изменения в r11 от User B
 >>>>>>> user-b-branch
 Изменения в r13 от User A
+Изменения в r14 от User A
